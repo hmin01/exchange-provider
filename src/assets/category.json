@@ -1,0 +1,94 @@
+[
+  {
+    "label": "아랍에미리트 디르함",
+    "value": "AED"
+  },
+  {
+    "value": "AUD",
+    "label": "호주 달러"
+  },
+  {
+    "value": "BHD",
+    "label": "바레인 디나르"
+  },
+  {
+    "value": "BND",
+    "label": "브루나이 달러"
+  },
+  {
+    "value": "CAD",
+    "label": "캐나다 달러"
+  },
+  {
+    "value": "CHF",
+    "label": "스위스 프랑"
+  },
+  {
+    "value": "CNH",
+    "label": "위안화"
+  },
+  {
+    "value": "DKK",
+    "label": "덴마아크 크로네"
+  },
+  {
+    "value": "EUR",
+    "label": "유로"
+  },
+  {
+    "value": "GBP",
+    "label": "영국 파운드"
+  },
+  {
+    "value": "HKD",
+    "label": "홍콩 달러"
+  },
+  {
+    "value": "IDR(100)",
+    "label": "인도네시아 루피아"
+  },
+  {
+    "value": "JPY(100)",
+    "label": "일본 옌"
+  },
+  {
+    "value": "KRW",
+    "label": "한국 원"
+  },
+  {
+    "value": "KWD",
+    "label": "쿠웨이트 디나르"
+  },
+  {
+    "value": "MYR",
+    "label": "말레이지아 링기트"
+  },
+  {
+    "value": "NOK",
+    "label": "노르웨이 크로네"
+  },
+  {
+    "value": "NZD",
+    "label": "뉴질랜드 달러"
+  },
+  {
+    "value": "SAR",
+    "label": "사우디 리얄"
+  },
+  {
+    "value": "SEK",
+    "label": "스웨덴 크로나"
+  },
+  {
+    "value": "SGD",
+    "label": "싱가포르 달러"
+  },
+  {
+    "value": "THB",
+    "label": "태국 바트"
+  },
+  {
+    "value": "USD",
+    "label": "미국 달러"
+  }
+]

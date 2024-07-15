@@ -1,24 +1,24 @@
 // Component
-import { Table } from "@/components";
+import { Container, Table } from "@/components";
 // Data
 import data from "./assets/exchange.json";
+import ExchangeCalculation from "./features/ExchangeCalculation";
 
 function App() {
   return (
     <main>
       <header></header>
-      <section>
-        <div>
-          <Table
-            headers={[
-              { key: "cur_unit", label: "통화" },
-              { key: "cur_nm", label: "통화명" },
-              { key: "deal_bas_r", label: "금액" },
-            ]}
-            content={data}
-          />
-        </div>
-      </section>
+      <Container>
+        <ExchangeCalculation />
+        <Table
+          headers={[
+            { key: "cur_unit", label: "통화" },
+            { key: "cur_nm", label: "통화명" },
+            { key: "deal_bas_r", label: "금액" },
+          ]}
+          content={data}
+        />
+      </Container>
     </main>
   );
 }

@@ -3,8 +3,8 @@ import { Table as ShadcnTable, TableBody, TableCell, TableHead, TableHeader, Tab
 
 export default function Table({ headers, content }: any) {
   return (
-    <ShadcnTable className="relative">
-      <TableHeader className="left-0 sticky top-0">
+    <ShadcnTable>
+      <TableHeader className="bg-white left-0 shadow sticky top-0">
         <TableRow>
           {headers.map(
             (header: any): JSX.Element => (
